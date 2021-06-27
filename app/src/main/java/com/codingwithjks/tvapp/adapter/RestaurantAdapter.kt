@@ -1,4 +1,4 @@
-package com.codingwithjks.tvapp.data.adapter
+package com.codingwithjks.tvapp.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
